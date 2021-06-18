@@ -16,10 +16,12 @@
 - ⚡ Fun fact: I have a technician degree in agribusiness!!!
 - 🧝 The Legend Of Zelda fan.
 
-#### Find me in: 
+#### Find me on: 
 
 Telegram: [Matheuszinn](https://t.me/Matheuszinn)
+
 Twitter: [@matheuszeen](www.twitter.com/matheuszenn)
+
 YouTube: [Matheus Alves](https://www.youtube.com/channel/UCEnbhRA3ugq_8yazvxXVgCw)
 <!--
 **matheuszinn/matheuszinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
