@@ -7,7 +7,7 @@
 - 📈 I'm looking to improve my skills as programmer through contributing and interacting with others people and its works.
 - ✊🏿 Always trying to be the best person I can!
 
-#### Other stuffs about me:
+#### Other things about me:
 
 - 😳 I like to tell bad jokes. 
 - 🎸 I'm a frustrated musician. 
