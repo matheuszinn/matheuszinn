@@ -1,4 +1,4 @@
-### Hello there 
+### Hello there 👋
 
 - 👨🏿‍🦱 My name is Matheus Alves Sousa
 - 👨🏿‍🎓 I'm studying Computer Science at UFT - Campus Palmas
