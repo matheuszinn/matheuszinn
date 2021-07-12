@@ -15,6 +15,8 @@
 - ⚡ Fun fact: I have a technician degree in agribusiness!!!
 - 🧝 The Legend Of Zelda fan.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszinn)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Find me on: 
 
 Telegram: [Matheuszinn](https://t.me/Matheuszinn)
