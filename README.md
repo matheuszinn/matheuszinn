@@ -24,7 +24,7 @@
 
 Telegram: [Matheuszinn](https://t.me/Matheuszinn)
 
-Twitter: [@matheuszeen](www.twitter.com/matheuszenn)
+Twitter: [@matheuszeen](https://www.twitter.com/matheuszenn)
 
 YouTube: [Matheus Alves](https://www.youtube.com/channel/UCEnbhRA3ugq_8yazvxXVgCw)
 <!--
