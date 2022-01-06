@@ -10,12 +10,15 @@
 
 - 😳 I like to tell bad jokes. 
 - 🎸 I'm a frustrated musician. 
-- 💔 To apply to be my girlfriend, send your resumé to my email (see, the bad jokes thing)
+- 💔 To apply to be my girlfriend, send your resumé to my email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a technician degree in agribusiness!!!
 - 🧝 The Legend Of Zelda fan.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszinn)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuszinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszinn&layout=compact&langs_count=16&theme=dark" />
+</div>
 
 #### Find me on: 
 
