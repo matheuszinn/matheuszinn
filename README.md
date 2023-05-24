@@ -10,7 +10,6 @@
 
 - 😳 I like to tell bad jokes. 
 - 🎸 I'm a frustrated musician. 
-- 💔 To apply to be my girlfriend, send your resumé to my email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a technician degree in agribusiness!!!
 - 🧝 The Legend Of Zelda fan.
