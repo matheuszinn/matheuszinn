@@ -4,7 +4,7 @@
 - 👨🏿‍🎓 I'm studying Computer Science at UFT - Campus Palmas
 - 👍🏿 I'm interested in : Game development, music, different languages (mine is portuguese), astronomics, soccer and, of course, programming.
 - 📈 I'm looking to improve my skills as programmer through contributing and interacting with others people and its works.
-- ✊🏿 Always trying to be the best person I can!
+- ✊🏿 Always trying to be the worst person I can!
 
 #### Other things about me:
 
