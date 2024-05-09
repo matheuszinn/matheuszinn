@@ -8,7 +8,6 @@
 
 #### Other things about me:
 
-- 😳 I like to tell bad jokes. 
 - 🎸 I'm a frustrated musician. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a technician degree in agribusiness!!!
